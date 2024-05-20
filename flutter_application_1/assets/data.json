@@ -1,0 +1,114 @@
+{
+    "sehirler": [
+      {
+        "sehir": "Bursa",
+        "ilceler": [
+          {
+            "ilce": "Osmangazi",
+            "restaurants": [
+              {
+                "name": "Çiçek Izgara",
+                "rating": 4.7,
+                "cuisine": "Türk Mutfağı",
+                "link": "https://www.cicekizgara.com/category/menu/",
+                "logo": "assets/cicek_izgara.png"
+              },
+              {
+                "name": "Kebapçı İskender",
+                "rating": 4.6,
+                "cuisine": "Türk Mutfağı",
+                "link": "https://www.iskender.com.tr/tayyare-kultur-merkezi-yani.html",
+                "logo": "assets/kebapci_iskender.png"
+              },
+              {
+                "name": "Kitap Evi",
+                "rating": 4.5,
+                "cuisine": "Türk Mutfağı",
+                "link": "http://www.kitapevi.com.tr/restaurant.html",
+                "logo": "assets/kitap_evi.png"
+              }
+            ]
+          },
+          {
+            "ilce": "Yıldırım",
+            "restaurants": [
+              {
+                "name": "Köfteci Yusuf",
+                "rating": 4.5,
+                "cuisine": "Türk Mutfağı",
+                "link": "https://www.kofteciyusuf.com/tum-urunler.html",
+                "logo": "assets/kofteci_yusuf.png"
+              },
+              {
+                "name": "Seyr-u Sefa",
+                "rating": 4.4,
+                "cuisine": "Türk Mutfağı",
+                "link": "https://menu.seyrusefa.com/",
+                "logo": "assets/seyru_sefa.png"
+              },
+              {
+                "name": "Öncü Döner",
+                "rating": 4.3,
+                "cuisine": "Türk Mutfağı",
+                "link": "https://www.yildirimoncu.com/",
+                "logo": "assets/oncu.png"
+              }
+            ]
+          },
+          {
+            "ilce": "Nilüfer",
+            "restaurants": [
+              {
+                "name": "Dönerci Celal Usta",
+                "rating": 4.6,
+                "cuisine": "Türk Mutfağı",
+                "link": "https://www.donercicelalusta.com/menu/",
+                "logo": "assets/donercicelalusta.png"
+              },
+              {
+                "name": "Allzin",
+                "rating": 4.5,
+                "cuisine": "Çin Mutfağı",
+                "link": "https://allzinapp.com/aisushi/menu",
+                "logo": "assets/allzin.png"
+              },
+              {
+                "name": "Tandır'az",
+                "rating": 4.4,
+                "cuisine": "Türk Mutfağı",
+                "link": "https://menucebimde.com/?menuid=QPT84K",
+                "logo": "assets/tandiraz.png"
+              }
+            ]
+          },
+          {
+            "ilce": "Mudanya",
+            "restaurants": [
+              {
+                "name": "Pavurya",
+                "rating": 4.7,
+                "cuisine": "Deniz Ürünleri",
+                "link": "https://pavuryabalikrestaurant.com/menu/",
+                "logo": "assets/pavurya.png"
+              },
+              {
+                "name": "Kocamanlar Balık",
+                "rating": 4.6,
+                "cuisine": "Deniz Ürünleri",
+                "link": "https://kocamanlar.menu/",
+                "logo": "assets/kocamanlar.png"
+              },
+              {
+                "name": "Montania Special Class Hotel",
+                "rating": 4.5,
+                "cuisine": "Deniz Ürünleri ve Steak",
+                "link": "https://www.montania.com.tr/masturibalik",
+                "logo": "assets/montania.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
